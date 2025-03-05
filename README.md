@@ -19,3 +19,9 @@
 9. **Mazes of Arrows**
 
 10. **Text Segmentation - DP**
+
+11. **Depth First Search (DFS)**
+
+12. **Directed Acyclic Graph (DAG)**
+
+13. **Approximating TSP**
